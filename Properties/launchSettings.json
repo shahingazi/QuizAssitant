@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ConsoleApp.Quiz": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
